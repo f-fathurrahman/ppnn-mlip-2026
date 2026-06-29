@@ -1,0 +1,5 @@
+*.traj
+*.model
+IMG_*
+*.ckpt
+*.pdf
